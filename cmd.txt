@@ -1,0 +1,1 @@
+service call package 136 s16 com.motorola.genie i32 0 i32 0
