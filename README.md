@@ -1,4 +1,8 @@
 ```sh
+curl https://raw.githubusercontent.com/pnduonghd/debloat/refs/heads/main/debloat.sh | sh
+```
+
+```sh
 adb shell service call package 132 s16 com.tracfone.preload.accountservices i32 0 i32 0
 
 
